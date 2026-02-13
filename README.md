@@ -30,15 +30,11 @@ A API_CEP é uma aplicação desenvolvida para realizar consultas de CEP utiliza
 
 ## Ferramentas
 
-- HTML
-- CSS
 - JavaScript
-- PHP (se houver backend)
+- PHP 
 - API ViaCEP
 - JSON
 - XAMPP
-
-
 
 ## Como Executar
 
