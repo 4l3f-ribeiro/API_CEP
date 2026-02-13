@@ -1,6 +1,6 @@
 # API_CEP
 
-Projeto de API para consulta de CEP, desenvolvido com foco em integração com serviços externos e manipulação de requisições HTTP.
+Projeto de API web para consulta de CEP, desenvolvido com foco em integração com serviços externos e manipulação de requisições HTTP.
 
 ## 📌 Sistema
 
@@ -38,6 +38,7 @@ A API_CEP é uma aplicação desenvolvida para realizar consultas de CEP utiliza
 
 ## Como Executar
 
-Copie a pasta para C:\xampp\htdocs\
-Inicie Apache e MySQL no XAMPP 
-Acesse: http://localhost/NomeDaPasta
+Pegue o repositório:
+Abra o projeto no Android Studio
+Aguarde o Gradle sincronizar
+Execute
